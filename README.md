@@ -1,6 +1,6 @@
-#CryptoVerse - A Crptocurrency Web Application
+# CryptoVerse - A Crptocurrency Web Application
 
-
+![CryptoCurrency_Web App](display_image.png)
 
 ## Getting Started with Create React App
 
